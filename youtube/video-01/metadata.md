@@ -1,26 +1,30 @@
-# Vidéo 01 — Metadata
+# Vidéo 01 — Metadata (v2 : pédagogie + parcours)
 
 ## Titre (2 options)
-1) **Bruxelles Solo : choisir une sortie solo en 30 secondes (sans se forcer)**
-2) **Sortir seul à Bruxelles : j’ai construit un outil très simple (et ça change tout)**
+1) **Construire une mini‑app à 40+ (sans être dev) : les outils que j’utilise**
+2) **Codex + GitHub + Supabase : fabriquer une app simple, étape par étape**
 
 ## Description (courte, humaine)
-Je vis à Bruxelles, j’ai 40+, et je construis des outils simples pour réduire la friction du quotidien.
+Je vis à Bruxelles, j’ai 40+, et j’essaie d’utiliser la tech/IA sans posture — juste pour construire des trucs utiles.
 
-Dans cette vidéo : un mini outil “Bruxelles Solo” qui te propose 3 idées solo-friendly en 30 secondes (sans te motiver, sans te juger).
+Dans cette vidéo, je montre le parcours (pas le produit) :
+- c’est quoi “une app”, au fond
+- les outils que j’utilise (Codex, GitHub, Supabase)
+- et comment tout ça s’assemble pour créer une version simple qui marche
 
-Si tu as une adresse où tu t’es senti bien en solo : envoie-la (nom + quartier + pourquoi c’est OK).
+Si tu as une adresse solo‑friendly à Bruxelles : nom + quartier + pourquoi c’est OK (une phrase suffit), et je l’ajoute à la base.
 
 ## Chapitres
-00:00 Pourquoi ce mini outil
-00:35 Démo : choisir une idée en 30 secondes
-02:30 Autres idées (reroll)
-03:15 Pourquoi ça marche
-04:30 Appel à retours
+00:00 Pourquoi je fais ça (à 40+)
+00:45 C’est quoi une app ? (simple)
+02:15 Les outils (Codex / GitHub / Supabase)
+04:15 Démo du parcours (repo + base)
+06:00 Démo rapide du résultat
+07:30 Ce qu’il faut retenir
 
 ## Commentaire épinglé
-Tu as une adresse à Bruxelles où tu te sens bien en solo ?
-Nom + quartier + pourquoi c’est OK tout seul (une phrase suffit).
+Tu veux que je teste l’idée sur un “vrai” problème ?
+Écris ton cas en 2 lignes (et ta contrainte principale : temps, budget, énergie).
 
 ## Tags (optionnel)
-bruxelles, sortir seul, solo, productivité, outils, IA utile
+IA, outils, no-code, productivité, bruxelles, apprendre

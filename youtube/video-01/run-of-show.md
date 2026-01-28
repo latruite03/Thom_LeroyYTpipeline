@@ -1,26 +1,28 @@
-# Vidéo 01 — Run of show (timeline)
+# Vidéo 01 — Run of show (v2 : pédagogie + parcours)
 
-## 0:00–0:30 — Intro facecam
+## 0:00–0:45 — Intro facecam
 - Dire l’intro (script)
 
-## 0:30–0:45 — Cut écran
-- Passer à l’écran (site Bruxelles Solo)
+## 0:45–2:15 — “C’est quoi une app ?” (pédagogie)
+- Expliquer : page web + logique + données
+- 1 phrase : “on vise une version simple qui marche”
 
-## 0:45–2:30 — Démo #1
-- Choisir : 1–2h / ce soir / énergie zéro / pluie / budget peu importe / surprends-moi
-- Montrer les 3 résultats
-- Dire 1 phrase “pourquoi c’est OK en solo”
+## 2:15–4:15 — Les outils (1 min chacun)
+- Codex : à quoi ça sert / ce que ça ne fait pas à ta place
+- GitHub : historique + publier
+- Supabase : base simple (table `places`)
 
-## 2:30–3:15 — Démo #2 (reroll)
-- Cliquer “Autres idées”
-- Montrer que ça change
+## 4:15–6:00 — Démo parcours (très concret)
+- Montrer repo GitHub (commits, fichiers)
+- Montrer Supabase (places)
 
-## 3:15–4:30 — Pourquoi j’ai fait ça
-- Le point n’est pas la “sortie parfaite”, c’est de réduire la friction
-- “Tu peux partir quand tu veux”
+## 6:00–7:30 — Démo résultat (courte)
+- Ouvrir bruxellesensolo.be
+- 1 exemple de sélection → 3 suggestions
+- 1 reroll
 
-## 4:30–5:15 — Appel à retours
-- Demander 1 adresse solo-friendly
+## 7:30–8:30 — Ce qu’il faut retenir
+- Problème simple + outil + itération
 
-## 5:15–5:40 — Outro facecam
-- Dire l’outro (script)
+## 8:30–9:00 — Outro facecam
+- Appel à retours + prochaine vidéo
